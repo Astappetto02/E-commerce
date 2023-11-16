@@ -14,7 +14,7 @@ Per utilizzare il progetto "TrenNutrition", seguire questi passaggi:
 
 1. **Clonare il Repository:** 
    ```bash
-    git clone https://github.com/Astappetto02/E-commerce
+    git clone https://github.com/Astappetto02/TrenNutrition
    ```
 2. **Importare il Progetto:**
    - Importare il progetto in un ambiente di sviluppo web compatibile con Java, Python, o il linguaggio di programmazione prescelto.
