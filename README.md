@@ -9,7 +9,7 @@ Il progetto "TrenNutrition" è una piattaforma di e-commerce focalizzata su prod
 - **Interfaccia Utente Intuitiva:** L'interfaccia grafica offre un'esperienza di navigazione intuitiva, permettendo agli utenti di trovare facilmente ciò che cercano e di effettuare acquisti in modo efficiente.
 - **Interfaccia Amministratore Facilitata:** Un'interfaccia dedicata semplifica la gestione del sito per gli amministratori, consentendo una facile modifica del catalogo prodotti, la gestione delle promozioni e il monitoraggio delle attività.
 
-## Come Iniziare
+# Come Iniziare
 Per utilizzare il progetto "TrenNutrition", seguire questi passaggi:
 
 1. **Clonare il Repository:** 
