@@ -1,10 +1,10 @@
 # E-commerce
 **Repository contenente il progetto del corso "TECNOLOGIE SOFTWARE PER IL WEB", tenuto dal Prof. Gennaro COSTAGLIOLA nella facoltà di Informatica, Università degli Studi di Salerno.**
 
-#Descrizione del Progetto
+# Descrizione del Progetto
 Il progetto "TrenNutrition" è una piattaforma di e-commerce focalizzata su prodotti dedicati agli appassionati di sport. L'obiettivo principale è fornire agli utenti una vasta selezione di integratori sportivi, abbigliamento tecnico e accessori, offrendo un'esperienza di shopping online dedicata al mondo dello sport.
 
-#Funzionalità principali
+# Funzionalità principali
 - **Navigazione per Categoria Sportiva:** Esplora una vasta gamma di prodotti organizzati per categoria, garantendo un accesso facile e veloce ai prodotti.
 - **Interfaccia Utente Intuitiva:** L'interfaccia grafica offre un'esperienza di navigazione intuitiva, permettendo agli utenti di trovare facilmente ciò che cercano e di effettuare acquisti in modo efficiente.
 - **Interfaccia Amministratore Facilitata:** Un'interfaccia dedicata semplifica la gestione del sito per gli amministratori, consentendo una facile modifica del catalogo prodotti, la gestione delle promozioni e il monitoraggio delle attività.
