@@ -1,4 +1,4 @@
-# E-commerce
+# TrenNutrition
 **Repository contenente il progetto del corso "TECNOLOGIE SOFTWARE PER IL WEB", tenuto dal Prof. Gennaro COSTAGLIOLA nella facoltà di Informatica, Università degli Studi di Salerno.**
 
 # Descrizione del Progetto
